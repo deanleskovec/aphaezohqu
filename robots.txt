@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aephiebaiw.eatrunco.de/sitemap.xml
